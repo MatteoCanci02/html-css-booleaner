@@ -1,0 +1,12 @@
+.intestazione{
+    background-color: rgba(156,214,244,255);
+    background-image: url(./../img/pattern.png);
+    background-size: contain;
+}
+
+#immagine{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 50px;
+}
