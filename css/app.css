@@ -10,3 +10,12 @@
 body{
     margin: 0px;
 }
+
+.titolo{
+    line-height: 1px;
+}
+
+.sottotitolo{
+    line-height: 1px;
+    color: rgba(203,210,214,255);
+}
