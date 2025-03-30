@@ -1,11 +1,12 @@
 .intestazione{
     background-color: rgba(156,214,244,255);
+    background-image: url(./../img/pattern.png);
 }
 
 #immagine{
     width: 200px;
     height: 100px;
-    margin-left: 15px;
+    margin-left: 10%;
 }
 
 body{
@@ -32,5 +33,6 @@ body{
 }
 
 main{
-    margin: 15px;
+    margin: 0 auto;
+    width: 80%;
 }
