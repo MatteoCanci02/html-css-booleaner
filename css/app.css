@@ -11,11 +11,25 @@ body{
     margin: 0px;
 }
 
-.titolo{
-    line-height: 1px;
-}
-
 .sottotitolo{
     line-height: 1px;
     color: rgba(203,210,214,255);
+}
+
+.intestazione-tabella{
+    background-color: rgba(127,166,251,255);
+    color: white;
+}
+
+.tabella{
+    text-align: left;
+    width: 100%;
+}
+
+.righe-tabella{
+    background-color: rgba(223,229,242,255);
+}
+
+main{
+    margin: 15px;
 }
